@@ -4,16 +4,16 @@ on:
 
 jobs:
   evaluator_job:
-    runs-on: ubuntu-16.04
+    runs-on: ubuntu-18.04
     name: Evaluator job
     steps:
       - uses: actions/checkout@v2
       - name: Cypress evaluator step
         id: cypress
-        uses: betrybe/cypress-evaluator-action@master
+        uses: betrybe/cypress-evaluator-action@v1
       - name: Store evaluation step
-        uses: betrybe/store-evaluation-action@master
+        uses: betrybe/store-evaluation-action@v1
         with:
           evaluation-data: ${{ steps.cypress.outputs.result }}
-          environment: production
+          environment: staging
           pr-number: ${{ steps.cypress.outputs.pr-number }}
