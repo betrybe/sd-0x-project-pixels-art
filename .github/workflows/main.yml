@@ -11,8 +11,10 @@ jobs:
       - name: Cypress evaluator step
         id: cypress
         uses: betrybe/cypress-evaluator-action@v1
+        env:
+          TEST_REPOSITORY_BRANCH: 'configure-v2'
       - name: Store evaluation step
-        uses: betrybe/store-evaluation-action@v1
+        uses: betrybe/store-evaluation-action@v2
         with:
           evaluation-data: ${{ steps.cypress.outputs.result }}
           environment: staging
