@@ -232,7 +232,7 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 
 ##### As seguintes verificações serão feitas:
 
-- Caso o valor digitado no input `board-sze` fuja do intervalo de 5 a 50, faça:
+- Caso o valor digitado no input `board-size` fuja do intervalo de 5 a 50, faça:
 
   - Valor menor que 5, considerar 5 como padrão;
 
