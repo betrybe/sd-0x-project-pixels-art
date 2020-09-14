@@ -22,7 +22,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
     * Exemplo: `git checkout master`
   * Agora, crie uma branch onde você vai guardar os `commits` do seu projeto
     * Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
-    * Exemplo: `git checkout -b mariazinha-meme-generator-project`
+    * Exemplo: `git checkout -b mariazinha-project-pixels-art`
 
 3. Crie na raiz do projeto os arquivos que você precisará desenvolver:
   * Verifique que você está na raiz do projeto
