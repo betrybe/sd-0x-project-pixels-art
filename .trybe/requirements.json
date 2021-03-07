@@ -1,51 +1,51 @@
 {
   "requirements": [
     {
-      "description": "A página deve possuir o título \"Paleta de Cores\".",
+      "description": "1 - Adicione à página o título \"Paleta de Cores\".",
       "bonus": false
     },
     {
-      "description": "A página deve possuir uma paleta de quatro cores distintas.",
+      "description": "2 - Adicione à página uma paleta de quatro cores distintas.",
       "bonus": false
     },
     {
-      "description": "A cor preta deve ser a primeira na paleta de cores.",
+      "description": "3 - Adicione a cor **preta** como a primeira cor da paleta de cores.",
       "bonus": false
     },
     {
-      "description": "A página deve possuir um quadro de pixels, com 25 pixels.",
+      "description": "4 - Adicione à página um quadro de pixels, com 25 pixels.",
       "bonus": false
     },
     {
-      "description": "Cada elemento do quadro de pixels deve possuir 40 pixels de largura e 40 pixels de altura e ser delimitado por uma borda preta de 1 pixel.",
+      "description": "5 - Faça com que cada elemento do quadro de pixels possua 40 pixels de largura, 40 pixels de altura e seja delimitado por uma borda preta de 1 pixel.",
       "bonus": false
     },
     {
-      "description": "Ao carregar a página, a cor preta da paleta já deve estar selecionada para pintar os pixels.",
+      "description": "6 - Defina a cor preta como cor inicial. Ao carregar a página a cor preta já deve estar selecionada para pintar os pixels",
       "bonus": false
     },
     {
-      "description": "Ao clicar em uma das cores da paleta, a cor selecionada é que vai ser usada para preencher os pixels no quadro.",
+      "description": "7 - Clicar em uma das cores da paleta, faz com que ela seja selecionada e utilizada para preencher os pixels no quadro.",
       "bonus": false
     },
     {
-      "description": "Ao clicar em um pixel dentro do quadro após selecionar uma cor na paleta, o pixel deve ser preenchido com esta cor.",
+      "description": "8 - Clicar em um pixel dentro do quadro após selecionar uma cor na paleta, faz com que o pixel seja preenchido com a cor selecionada.",
       "bonus": false
     },
     {
-      "description": "Crie um botão que, ao ser clicado, limpa o quadro preenchendo a cor de todos seus pixels com branco.",
+      "description": "9 - Crie um botão que, ao ser clicado, limpa o quadro preenchendo a cor de todos seus pixels com branco.",
       "bonus": false
     },
     {
-      "description": "Faça o quadro de pixels ter seu tamanho definido pelo usuário.",
+      "description": "10 - Faça o quadro de pixels ter seu tamanho definido pelo usuário.",
       "bonus": true
     },
     {
-      "description": "Limite o tamanho do mínimo e máximo do board.",
+      "description": "11 - Limite o tamanho mínimo e máximo do board.",
       "bonus": true
     },
     {
-      "description": "Faça com que as cores da paleta sejam geradas aleatoriamente ao carregar a página.",
+      "description": "12 - Faça com que as cores da paleta sejam geradas aleatoriamente ao carregar a página.",
       "bonus": true
     }
   ]
