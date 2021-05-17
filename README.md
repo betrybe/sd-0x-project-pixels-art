@@ -180,6 +180,21 @@ Quando é executado o comando `npm run lint`, ele irá avaliar se os arquivos co
 
 ---
 
+## Cypress
+
+Cypress é uma ferramenta de teste de front-end desenvolvida para a web.
+Você pode rodar o cypress localmente para verificar se seus requisitos estão passando, para isso execute o seguinte comando:
+
+```bash
+npx cypress open
+```
+
+Você também pode assistir a [este](https://vimeo.com/539240375/a116a166b9) vídeo 😉🎙
+
+**Para rodar o cypress é preciso ter rodado o comando npm install anteriormente.**
+
+---
+
 ## Requisitos do projeto
 
 ### 💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar todas as pessoas!
