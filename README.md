@@ -457,6 +457,8 @@ Se ainda houver alguma dúvida sobre como entregar seu projeto, [aqui tem um vid
 
 Use o material que você já viu sobre [Code Review](https://course.betrybe.com/real-life-engineer/code-review/) para te ajudar a revisar os projetos que chegaram para você.
 
+---
+
 ### Compartilhe no LinkedIn
 
 Você sabia que o **LinkedIn** é a principal rede social profissional e compartilhar o seu aprendizado lá é muito importante para quem deseja construir uma carreira de sucesso?
