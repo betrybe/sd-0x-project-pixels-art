@@ -41,6 +41,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
     - [12 - Faça com que as cores da paleta sejam geradas aleatoriamente ao carregar a página.](#12---faça-com-que-as-cores-da-paleta-sejam-geradas-aleatoriamente-ao-carregar-a-página)
 - [Depois de terminar o desenvolvimento](#depois-de-terminar-o-desenvolvimento)
 - [Revisando um pull request](#revisando-um-pull-request)
+- [Compartilhe no LinkedIn](#compartilhe-no-linkedin)
 - [Avisos Finais](#avisos-finais)
 
 ---
@@ -455,6 +456,12 @@ Se ainda houver alguma dúvida sobre como entregar seu projeto, [aqui tem um vid
 À medida que você e as outras pessoas que estudam na Trybe forem entregando os projetos, vocês receberão um alerta via Slack para também fazer a revisão dos Pull Requests das outras pessoas estudantes. Atenção às mensagens do "Pull Reminders" no Slack!
 
 Use o material que você já viu sobre [Code Review](https://course.betrybe.com/real-life-engineer/code-review/) para te ajudar a revisar os projetos que chegaram para você.
+
+### Compartilhe no LinkedIn
+
+Você sabia que o **LinkedIn** é a principal rede social profissional e compartilhar o seu aprendizado lá é muito importante para quem deseja construir uma carreira de sucesso?
+
+Compartilhe esse projeto no seu **LinkedIn**, marque o perfil da Trybe (**@trybe**) e mostre para a sua rede toda a sua evolução.
 
 # Avisos Finais
 
