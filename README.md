@@ -1,8 +1,10 @@
-### Termos e acordos
+## Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
 
-# Boas vindas ao repositório do projeto Arte com Pixels!
+---
+
+## Boas vindas ao repositório do projeto Arte com Pixels!
 
 Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Atenção a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
 
@@ -10,7 +12,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 ---
 
-# Sumário
+## Sumário
 
 - [Habilidades](#habilidades)
 - [Entregáveis](#entregáveis)
@@ -41,11 +43,12 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
     - [12 - Faça com que as cores da paleta sejam geradas aleatoriamente ao carregar a página.](#12---faça-com-que-as-cores-da-paleta-sejam-geradas-aleatoriamente-ao-carregar-a-página)
 - [Depois de terminar o desenvolvimento](#depois-de-terminar-o-desenvolvimento)
 - [Revisando um pull request](#revisando-um-pull-request)
+- [Compartilhe no LinkedIn](#compartilhe-no-linkedin)
 - [Avisos Finais](#avisos-finais)
 
 ---
 
-# Habilidades
+## Habilidades
 
 - Manipular o DOM
 
@@ -59,7 +62,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 ---
 
-### Desenvolvimento
+## Desenvolvimento
 
 - Implemente uma paleta de cores usando `javascript`, `css` e `html`.
 
@@ -67,14 +70,15 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 ## Data de Entrega
 
-  - Serão `X` dias de projeto.
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+- Serão `X` dias de projeto.
+
+- Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
 
 ---
 
 ## Instruções para entregar seu projeto:
 
-### 🗒ANTES DE COMEÇAR A DESENVOLVER:
+### 🗒 ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório
   * `git clone git@github.com:tryber/sd-0x-project-pixels-art.git`.
@@ -138,18 +142,20 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
   3. `git commit` _(para criar um commit com os arquivos que estão no stage do Git)_
   4. `git push` _(para enviar o commit para o repositório remoto após o passo anterior)_
   5. `git push -u nome-da-branch` _(para enviar o commit para o repositório remoto na primeira vez que fizer o `push` de uma nova branch)_
-  
+
 ---
 
-# Como desenvolver
+## Como desenvolver
 
 - Este Pull Request deverá conter os arquivos `index.html`, `style.css` e `script.js`, que conterão seu código HTML, CSS e JavaScript, respectivamente.
 
-## ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️
+**⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️**
 
 Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure o time de instrução.
 
-## Dicas
+---
+
+### Dicas
 
 - Você pode pesquisar sobre a propriedade `display` do CSS, [especificamente sobre as opções `table`, `table-row` e `table-cell`](https://stackoverflow.com/questions/29229523/how-and-why-to-use-display-table-cell-css) para te ajudar a posicionar os elementos;
 
@@ -161,7 +167,9 @@ Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, pr
 
 - Para colocar sua página no [GitHub Pages](https://pages.github.com/), não é necessário remover o conteúdo que já está lá, você pode apenas adicionar essa nova página. Para isso, todo o conteúdo desse projeto deve ser colocado em uma pasta `/projetos/pixels-art`.
 
-## Linter
+---
+
+### Linter
 
 Para garantir a qualidade do código, vamos utilizar neste projeto os linters `ESLint` e `StyleLint`.
 Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo mais legível
@@ -180,7 +188,7 @@ Quando é executado o comando `npm run lint`, ele irá avaliar se os arquivos co
 
 ---
 
-## Cypress
+### Cypress
 
 Cypress é uma ferramenta de teste de front-end desenvolvida para a web.
 Você pode rodar o cypress localmente para verificar se seus requisitos estão passando, para isso execute o seguinte comando:
@@ -197,24 +205,25 @@ Você também pode assistir a [este](https://vimeo.com/539240375/a116a166b9) ví
 
 ## Requisitos do projeto
 
-### 💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar todas as pessoas!
+**💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar todas as pessoas!**
 
 ![exemplo de arte com pixels](./art-with-pixels.gif)
 
-## ⚠️ Leia-os atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_  e _classes_ que alguns elementos de seu projeto devem possuir**. Não troque `ids` por `classes` ou vice-versa ⚠️
+**⚠️ Leia-os atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_  e _classes_ que alguns elementos de seu projeto devem possuir**. Não troque `ids` por `classes` ou vice-versa ⚠️**
 
 O não cumprimento de um requisito, total ou parcialmente, impactará em sua avaliação.
 
 ---
 
-### 👀Observações importantes:
+## 👀 Observações importantes:
 
 * Os requisitos do seu projeto são avaliados automaticamente, sendo utilizada a resolução de tela de `1366 x 768` (1366 pixels de largura por 768 pixels de altura).
 
-  * #### ⚠️ Logo, recomenda-se desenvolver seu projeto usando a mesma resolução, via instalação [deste plugin](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) do `Chrome` para facilitar a configuração da resolução. ⚠️
+  * **⚠️ Logo, recomenda-se desenvolver seu projeto usando a mesma resolução, via instalação [deste plugin](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) do `Chrome` para facilitar a configuração da resolução.** ⚠️
 
 * Caso for utilizar imagens nesse projeto, atente-se para o tamanho delas. **Não utilize imagens com um tamanho maior que _500Kb_.**
-  * #### ⚠️ Utilize uma ferramenta [como esta](https://picresize.com/pt) para redimensionar as imagens. ⚠️
+
+  * **⚠️ Utilize uma ferramenta [como esta](https://picresize.com/pt) para redimensionar as imagens. ⚠️**
 
   * Caso a avaliação falhe com alguma mensagem de erro parecida com `[409:0326/130838.878602:FATAL:memory.cc(22)] Out of memory. size=4194304`, provavelmente as imagens que você está utilizando estão muito grandes. Tente redimensioná-las para um tamanho menor.
 
@@ -228,7 +237,6 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 
   * Caso tenha dúvidas, consulte [este vídeo](https://vimeo.com/420861252) ou procure o time de instrução.
 
-
 * Você tem liberdade para adicionar novos comportamentos ao seu projeto, seja na forma de aperfeiçoamentos em requisitos propostos ou novas funcionalidades, **desde que tais comportamentos adicionais não conflitem com os requisitos propostos**.
 
   * Em outras palavras, você pode fazer mais do que for pedido, mas nunca menos.
@@ -239,7 +247,7 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 
 ## Requisitos Obrigatórios:
 
-* Neste projeto, você implementará um editor de arte com pixels.
+Neste projeto, você implementará um editor de arte com pixels.
 
 **Ou seja, dada uma paleta de cores e um quadro composto por pixels, você vai permitir que quem usa consiga pintar o que quiser no quadro!** 👩‍🎨
 
@@ -450,18 +458,26 @@ Se ainda houver alguma dúvida sobre como entregar seu projeto, [aqui tem um vid
 
 ---
 
-### Revisando um pull request
+## Revisando um pull request
 
 À medida que você e as outras pessoas que estudam na Trybe forem entregando os projetos, vocês receberão um alerta via Slack para também fazer a revisão dos Pull Requests das outras pessoas estudantes. Atenção às mensagens do "Pull Reminders" no Slack!
 
 Use o material que você já viu sobre [Code Review](https://course.betrybe.com/real-life-engineer/code-review/) para te ajudar a revisar os projetos que chegaram para você.
 
-# Avisos Finais
+---
+
+## Compartilhe no LinkedIn
+
+Você sabia que o **LinkedIn** é a principal rede social profissional e compartilhar o seu aprendizado lá é muito importante para quem deseja construir uma carreira de sucesso?
+
+Compartilhe esse projeto no seu **LinkedIn**, marque o perfil da Trybe (**@trybe**) e mostre para a sua rede toda a sua evolução.
+
+---
+
+## Avisos Finais
 
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
 
 Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
 
 O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
-
----
