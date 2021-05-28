@@ -427,7 +427,7 @@ Neste projeto, você implementará um editor de arte com pixels.
 
 ### 11 - Limite o tamanho mínimo e máximo do board.
 
-- Caso o valor digitado no input `board-sze` fuja do intervalo de 5 a 50, faça:
+- Caso o valor digitado no input `board-size` fuja do intervalo de 5 a 50, faça:
 
   - Valor menor que 5, considerar 5 como padrão;
 
