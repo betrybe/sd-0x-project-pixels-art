@@ -158,7 +158,7 @@ Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, pr
 
 ### Dicas
 
-- Você pode pesquisar sobre a propriedade `display` do CSS, [especificamente sobre as opções `table`, `table-row` e `table-cell`](https://stackoverflow.com/questions/29229523/how-and-why-to-use-display-table-cell-css) para te ajudar a posicionar os elementos;
+- Não recomenda-se a utilização de `table`, pois o sentido semântico de construir uma tabela no HTML não tem relação  com a construção de uma grade de pixels para serem coloridos. Nesse caso, fazer uso de `table` representa uma má prática.
 
 - [Que tal](https://flaviocopes.com/how-to-add-event-listener-multiple-elements-javascript/) usar um _loop_ para adicionar o mesmo evento em vários elementos? [Ou então](https://gomakethings.com/attaching-multiple-elements-to-a-single-event-listener-in-vanilla-js/) a técnica de _event bubbling_ combinada com `classList`?
 
